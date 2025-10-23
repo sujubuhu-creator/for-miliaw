@@ -3,7 +3,7 @@
     <h1>Hai Miliaw Cantyiqk!</h1>
     <img src="https://c.tenor.com/Z8ezUHZzcLoAAAAC/love.gif" />
     <h1>Kamu buat aku nyaman, kamu salah tau nggak, aku suka kamu, kamu kasih aku kesempatan ya?</h1>
-    <button id="btn_mau" onclick="alert('I LOVE YOU')">Mau</button>&nbsp;
+    <button id="btn_mau" onclick="alert('I LOVE YOU, ss kirim aku ya:)')">Mau</button>&nbsp;
     <button id="btn_gamau" onclick="gamau(this)" style="position: absolute">
       Gamau
     </button>
